@@ -1,1 +1,3 @@
-# ewrr
+# maven-project
+
+Simple Maven Project
